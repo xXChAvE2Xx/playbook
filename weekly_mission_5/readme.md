@@ -5,10 +5,9 @@
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
-|`fizzbuzz`|1|[Link al repo](https://github.com/xXChAvE2Xx/fizzbuzz)|
-|`PR`|2|[Nuevo Requerimiento](https://github.com/visualpartnership/fizzbuzz/pull/98)|
-|`Code Challenge`|3, 4, 5|[Visual-Thinking-API](https://github.com/xXChAvE2Xx/Visual-Thinking-API)|
-|`Trello`|6|[Próximamente]()|
-|`Trello JS Fork`|7|[Próximamente]()|
+|`Bot Telegram`|1|[Link al repo](https://github.com/xXChAvE2Xx/fizzbuzz#nueva-funcionalidad---bot-telegram)|
+|`SQL`|2|--|
+|`Prisma DB`|3|[Visual-Thinking-API](https://github.com/xXChAvE2Xx/PrismaDB)|
+|` Cliente Servidor`|4|[Próximamente]()|
 
 ![Spider-Man](https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif)
